@@ -1,0 +1,46 @@
+.orangebox{
+    background-color: rgb(255, 94, 0);
+    width: 100%;
+    height: 100px;
+    color: white;
+    display: inline-block;
+    padding: 50px;
+    border: 1px solided red;
+    margin: 10px;
+
+    /*text-align: center;*/
+
+}
+
+.paradecor {
+    background-color: rgb(6, 64, 83);
+    color: white;
+    font: bold;
+    width: 50%;
+    height: 100px;
+    padding: 50px;
+    margin: 10px;
+    border: 1px solid lightcoral;
+    margin-left: 260px;
+    margin-top: 20px;
+    font-size: 43px;
+    font-family: 'Honk', system-ui;
+
+}
+
+.blah {
+    background-color: rgb(6, 64, 83);
+    color: white;
+    font: bold;
+    width: 50%;
+    height: 100px;
+    padding: 50px;
+    margin: 10px;
+    border: 1px solid lightcoral;
+    margin-left: 260px;
+    margin-top: 20px;
+    font-size: 43px;
+ 
+font-family: 'Playfair Display', serif;
+
+}
